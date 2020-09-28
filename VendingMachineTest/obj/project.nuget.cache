@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zNCQ1NiPCIxyToCGFYjCZQSBYFI9age8rAZ+KVY/HdUokhvb/VEyg0YHEnbJCJ7y+nTDsKq06DUE2d7zrdbF4w==",
+  "dgSpecHash": "6Wliw2GK6x2ApyC2Kv0mN2I17+ur6cBCzh7445RwPSYKxObdb8wn/llx9TPD4uFATnSJPGxaE3wmzOVIbiaxaQ==",
   "success": true,
   "projectFilePath": "/Users/david.vanderburgh/development/katas/vending-machine/VendingMachineTest/VendingMachineTest.csproj",
   "expectedPackageFiles": [

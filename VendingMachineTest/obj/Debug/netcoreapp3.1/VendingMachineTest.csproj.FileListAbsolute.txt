@@ -92,3 +92,5 @@
 /Users/david.vanderburgh/development/katas/vending-machine/VendingMachineTest/obj/Debug/netcoreapp3.1/VendingMachineTest.dll
 /Users/david.vanderburgh/development/katas/vending-machine/VendingMachineTest/obj/Debug/netcoreapp3.1/VendingMachineTest.pdb
 /Users/david.vanderburgh/development/katas/vending-machine/VendingMachineTest/obj/Debug/netcoreapp3.1/VendingMachineTest.genruntimeconfig.cache
+/Users/david.vanderburgh/development/katas/vending-machine/VendingMachineTest/bin/Debug/netcoreapp3.1/VendingMachine.dll
+/Users/david.vanderburgh/development/katas/vending-machine/VendingMachineTest/bin/Debug/netcoreapp3.1/VendingMachine.pdb

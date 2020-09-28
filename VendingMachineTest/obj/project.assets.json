@@ -1634,6 +1634,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "VendingMachine/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/VendingMachine.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VendingMachine.dll": {}
+        }
       }
     }
   },
@@ -5705,6 +5715,11 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "VendingMachine/1.0.0": {
+      "type": "project",
+      "path": "../VendingMachine/VendingMachine.csproj",
+      "msbuildProject": "../VendingMachine/VendingMachine.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5712,6 +5727,7 @@
       "MSTest.TestAdapter >= 2.1.0",
       "MSTest.TestFramework >= 2.1.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
+      "VendingMachine >= 1.0.0",
       "coverlet.collector >= 1.2.0"
     ]
   },
@@ -5738,7 +5754,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/david.vanderburgh/development/katas/vending-machine/VendingMachine/VendingMachine.csproj": {
+              "projectPath": "/Users/david.vanderburgh/development/katas/vending-machine/VendingMachine/VendingMachine.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

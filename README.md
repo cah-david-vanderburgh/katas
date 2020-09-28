@@ -1,3 +1,8 @@
+Java commands
+==========
+Use `mvn package` to build and run tests.
+
+
 Vending Machine Kata
 ====================
 

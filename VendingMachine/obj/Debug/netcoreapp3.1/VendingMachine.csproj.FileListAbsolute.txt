@@ -1,0 +1,12 @@
+/Users/david.vanderburgh/development/katas/vending-machine/VendingMachine/bin/Debug/netcoreapp3.1/VendingMachine.deps.json
+/Users/david.vanderburgh/development/katas/vending-machine/VendingMachine/bin/Debug/netcoreapp3.1/VendingMachine.runtimeconfig.json
+/Users/david.vanderburgh/development/katas/vending-machine/VendingMachine/bin/Debug/netcoreapp3.1/VendingMachine.runtimeconfig.dev.json
+/Users/david.vanderburgh/development/katas/vending-machine/VendingMachine/bin/Debug/netcoreapp3.1/VendingMachine.dll
+/Users/david.vanderburgh/development/katas/vending-machine/VendingMachine/bin/Debug/netcoreapp3.1/VendingMachine.pdb
+/Users/david.vanderburgh/development/katas/vending-machine/VendingMachine/obj/Debug/netcoreapp3.1/VendingMachine.csprojAssemblyReference.cache
+/Users/david.vanderburgh/development/katas/vending-machine/VendingMachine/obj/Debug/netcoreapp3.1/VendingMachine.AssemblyInfoInputs.cache
+/Users/david.vanderburgh/development/katas/vending-machine/VendingMachine/obj/Debug/netcoreapp3.1/VendingMachine.AssemblyInfo.cs
+/Users/david.vanderburgh/development/katas/vending-machine/VendingMachine/obj/Debug/netcoreapp3.1/VendingMachine.csproj.CoreCompileInputs.cache
+/Users/david.vanderburgh/development/katas/vending-machine/VendingMachine/obj/Debug/netcoreapp3.1/VendingMachine.dll
+/Users/david.vanderburgh/development/katas/vending-machine/VendingMachine/obj/Debug/netcoreapp3.1/VendingMachine.pdb
+/Users/david.vanderburgh/development/katas/vending-machine/VendingMachine/obj/Debug/netcoreapp3.1/VendingMachine.genruntimeconfig.cache

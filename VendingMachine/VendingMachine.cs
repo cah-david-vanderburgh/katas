@@ -7,7 +7,8 @@ namespace VendingMachine
         private int numberOfNickels = 0;
         private int numberOfDimes = 0;
         private int numberOfQuarters = 0;
-         public int getNumberOfNickels() {
+
+        public int getNumberOfNickels() {
             return this.numberOfNickels;
         }
 
@@ -21,7 +22,7 @@ namespace VendingMachine
         public void insertCoin(string coinType) {
             if (coinType.Equals("nickel")) {
                 numberOfNickels++;
-            }
+            } 
         }
         
         static void Main(string[] args)
